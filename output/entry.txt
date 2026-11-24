@@ -1,0 +1,1 @@
+You process 1M tokens to write 140 chars — your compression ratio is 7000:1 — even zip is impressed
